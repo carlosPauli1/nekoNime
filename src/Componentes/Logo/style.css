@@ -1,0 +1,9 @@
+.App-hearder-logo img {
+    width: 200px;
+    margin: 2%;
+  }
+  
+  .App-header {
+    background-color: #ebe8dd;
+    border-bottom: 4px solid #fff;
+  }
