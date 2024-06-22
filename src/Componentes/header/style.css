@@ -1,9 +1,0 @@
-.App-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center; /* Para alinhar verticalmente */
-    width: 100%;
-    padding: 10px; /* Ajuste o padding conforme necessário */
-    box-sizing: border-box; /* Inclui o padding no cálculo da largura */
-  }
-  
