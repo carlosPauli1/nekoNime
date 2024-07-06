@@ -29,7 +29,7 @@ const NovosLivrosContainer = styled.div`
 function Lancamentos(){
     return (
         <LivrosLancamentos>
-            <Titulo cor="#EB9B00" tamanhoFonte="36px"> Ultimos Lançamentos</Titulo>
+            <Titulo cor="#EB9B00" tamanhoFonte="36px"> Ultimos Lançamentos!!</Titulo>
             <NovosLivrosContainer>
             {animesLancamentos.map(anime => (
                 <img src={anime.src} alt="capa-lancamentos" />
